@@ -11,7 +11,7 @@ const questions = () => {
     {
       //TITLE OF PROJECT
       type: 'input',
-      name: 'Title',
+      name: 'title',
       message: 'What is the title of your project? (Required)',
       validate: titleInput => {
         if (titleInput) {
@@ -25,7 +25,7 @@ const questions = () => {
     {
       //WRITE A DESCRIPTION
       type: 'input',
-      name: 'Description',
+      name: 'description',
       message: 'Please enter a description for your project. (Required)',
       validate: descriptionInput => {
         if (descriptionInput) {
@@ -59,7 +59,7 @@ const questions = () => {
     {
       //TEST
       type: 'input',
-      name: 'test',
+      name: 'tests',
       message: 'What are the instructions for running tests? (if necessary)',
     },
     {
@@ -72,7 +72,7 @@ const questions = () => {
     {
       //GITHUB USERNAME
       type: 'input',
-      name: 'userName',
+      name: 'username',
       message: 'What is your Github UserName? (Required)',
       validate: userName => {
         if (userName) {
