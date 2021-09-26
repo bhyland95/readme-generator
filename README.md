@@ -17,7 +17,7 @@ Clone the repo and run 'npm install' in the terminal to install the required pac
 
 ## Usage
 Once you are in the proper repo where the project is contained, run the file 'Index.js' with node. You will be prompted with a series of questions designed to help build a readme pertaining to your project. 
-Video on how to use the application: https://drive.google.com/drive/folders/1M-5r4SbgMZZwzO1-5hFnrMgp9xl7Ixm1
+Video on how to use the application: https://drive.google.com/file/d/14nKGaUevNkHWxNtHpS1JSLoE27x6LvM6/view?usp=sharing
 
 
 ## License
