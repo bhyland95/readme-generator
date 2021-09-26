@@ -1,8 +1,10 @@
 
-  # f
+  # Title
  
   ## Description
-  f
+  Description
+
+  ![License: GNU](https://img.shields.io/badge/License-GNU-yellow.svg)
 
   ## Table of Contents
   - [Description](#description)
@@ -14,26 +16,26 @@
   - [Questions](#questions)
 
   ## Installation
- f
+ Installation
 
   ## Usage
-  f
+  Usage
  
   ## Contributing
-  f
+  Contributions
 
   ## Tests
-  
+  Instructions for Tests
 
   ## License
-  This application is covered by the afl-3.0 license. 
+  This application is covered by the GNU license. 
   <br />
-  For more information about different licenses, visit [this link.](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository)
+  For more information about licenses, visit [this link.](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository)
 
   ## Questions
   If you have any questions, please reach out! 
   <br />
-  Find me on GitHub: [f](https://github.com/f)<br />
+  Find me on GitHub: [bhyland95](https://github.com/bhyland95)<br />
   <br />
-  Email me: f
+  Email me: email
 
